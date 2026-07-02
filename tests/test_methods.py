@@ -5,7 +5,7 @@
 """This is a sample python file for testing functions from the source code."""
 from __future__ import annotations
 
-from volatility-bridge.hello_world import hello_world
+from volatility-bridge. import hello_world
 
 
 def hello_test():

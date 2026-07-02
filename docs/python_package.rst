@@ -7,7 +7,7 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   volatility-bridge.hello_world
+   volatility-bridge.volatile_models
 
 Submodules
 ----------
