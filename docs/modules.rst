@@ -4,4 +4,4 @@ src
 .. toctree::
    :maxdepth: 4
 
-   volatility-bridge
+   volatility_bridge

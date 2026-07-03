@@ -56,7 +56,7 @@ Source = "https://github.com/AshitakaLax/volatility-ui"
 Tracker = "https://github.com/AshitakaLax/volatility-ui/issues"
 
 [tool.flit.module]
-name = "volatility-bridge"
+name = "volatility_bridge"
 
 [tool.bandit]
 exclude_dirs = ["build","dist","tests","scripts"]

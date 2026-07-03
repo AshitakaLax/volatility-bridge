@@ -87,7 +87,7 @@ Models
 *   Description: A unified type to easily parse any incoming command from the WebSocket.
 *   Type: Union[UICommandEmergencyHalt, UICommandResumeTrading, UICommandLiquidateAll, UICommandUpdateConfig]
 
-.. automodule:: volatility-bridge.volatile_models
+.. automodule:: volatility_bridge.volatile_models
    :members:
    :undoc-members:
    :show-inheritance:

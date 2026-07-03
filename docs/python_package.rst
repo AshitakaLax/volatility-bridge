@@ -7,7 +7,7 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   volatility-bridge.volatile_models
+   volatility_bridge.volatile_models
 
 Submodules
 ----------
@@ -15,7 +15,7 @@ Submodules
 python\_package.setup module
 ----------------------------
 
-.. automodule:: volatility-bridge.setup
+.. automodule:: volatility_bridge.setup
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ python\_package.setup module
 Module contents
 ---------------
 
-.. automodule:: volatility-bridge
+.. automodule:: volatility_bridge
    :members:
    :undoc-members:
    :show-inheritance:

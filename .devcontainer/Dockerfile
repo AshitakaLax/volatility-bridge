@@ -7,6 +7,6 @@ ENV FLIT_ROOT_INSTALL=1
 
 COPY pyproject.toml .
 RUN touch README.md \
-  && mkdir -p src/volatility-bridge \
+  && mkdir -p src/volatility_bridge \
   && python -m flit install --only-deps --deps develop \
   && rm -r pyproject.toml README.md src
