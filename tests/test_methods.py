@@ -17,8 +17,10 @@ from volatility_bridge.volatile_models import (
     UICommandUpdateConfig,
 )
 from datetime import datetime
+import pytest
 
 
+@pytest.mark.integration
 def test_internal_models():
     """Test validation and attribute access for internal trading models."""
     sell = SellInstruction(lot_id="lot_01", qty=2.5)
